@@ -1,5 +1,5 @@
+![logo](https://github.com/Aryan2k23/Aryan2k23/blob/main/Brown%20and%20Gray%20Simple%20Personal%20LinkedIn%20Banner.png)
 <img align="right" width="400px" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
-
 <h1 align="center">Hi 👋, I'm Aryan Giri</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
